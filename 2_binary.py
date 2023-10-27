@@ -1,6 +1,6 @@
 # Binary Search on a sorted list
 # O(logN)
-# has to be sorted
+# list has to be sorted
 
 # halves, check middle, split again
 def binary_search(list, left, right, x):
