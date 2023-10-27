@@ -5,7 +5,7 @@
 # halves, check middle, split again
 def binary_search(list, left, right, x):
     if right >= left:
-        middle = left + (right-1) // 2
+        middle = left + right // 2
         if list[middle] == x:
             return middle
         
