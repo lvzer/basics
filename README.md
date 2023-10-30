@@ -1,5 +1,5 @@
 # Basics
-important basic problems
+Some important algorithms
 
 
 ### Search
@@ -9,4 +9,6 @@ important basic problems
 ### Sort
 1. Bubble
 2. Selection
-3. Insert
+3. Insertion
+4. Merge
+5. Quick
